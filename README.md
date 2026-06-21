@@ -1,2 +1,14 @@
 # desk-igame-archive
-HTML page archive and documentation
+
+页面归档与发布记录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
